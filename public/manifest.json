@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "مرور طلایی آزمون لیسانس به پزشکی",
+  "short_name": "مدیکال پلاس",
+  "description": "سامانه هوشمند مرور سریع و طبقه‌بندی سوالات آزمون لیسانس به پزشکی با تم بژ و فونت وزیرمتن",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F5EE",
+  "theme_color": "#8C6B43",
+  "icons": [
+    {
+      "src": "/assets/aistudio/image_b8a02c98.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/aistudio/image_b8a02c98.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/aistudio/image_b8a02c98.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

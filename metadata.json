@@ -1,0 +1,6 @@
+{
+  "name": "مرور طلایی آزمون لیسانس به پزشکی",
+  "description": "سامانه هوشمند و گرافیکی مرور سریع، تست‌زنی و دسته‌بندی موضوعی نمونه سوالات آزمون پذیرش دانشجوی پزشکی از مقطع کارشناسی با تم بژ، نکات طلایی و فونت وزیرمتن",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1404,
+    "title": "دوره ۱۸ (سال تحصیلی ۱۴۰۴ - ۱۴۰۵)",
+    "date": "آبان ۱۴۰۴",
+    "totalQuestions": 200,
+    "extractedCount": 191,
+    "durationMinutes": 200,
+    "description": "جدیدترین دوره با ۲۰۰ سوال استاندارد و تفکیک ۹ درس تخصصی",
+    "pdfPath": "/assets/aistudio/license-to-medical-1404_a9007616.pdf"
+  },
+  {
+    "id": 1403,
+    "title": "دوره ۱۷ (سال تحصیلی ۱۴۰۳)",
+    "date": "تابستان ۱۴۰۳",
+    "totalQuestions": 150,
+    "extractedCount": 148,
+    "durationMinutes": 150,
+    "description": "دوره هفدهم با کلید تصحیح شده رسمی و پاسخ‌های علامت‌دار",
+    "pdfPath": "/assets/aistudio/license-to-medical-1403_70e2c392.pdf"
+  },
+  {
+    "id": 1402,
+    "title": "دوره ۱۶ (سال تحصیلی ۱۴۰۲)",
+    "date": "تابستان ۱۴۰۲",
+    "totalQuestions": 150,
+    "extractedCount": 150,
+    "durationMinutes": 150,
+    "description": "دوره شانزدهم همراه با مشخص بودن گزینه صحیح تمام سوالات",
+    "pdfPath": "/assets/aistudio/license-to-medical-1402_60faae8a.pdf"
+  },
+  {
+    "id": 1401,
+    "title": "دوره ۱۵ (سال تحصیلی ۱۴۰۱)",
+    "date": "تیر ۱۴۰۱",
+    "totalQuestions": 150,
+    "extractedCount": 150,
+    "durationMinutes": 150,
+    "description": "دوره پانزدهم با پاسخنامه تایید شده دانشگاه علوم پزشکی تهران",
+    "pdfPath": "/assets/aistudio/license-to-medical-1401_51e9302b.pdf"
+  },
+  {
+    "id": 1400,
+    "title": "دوره ۱۴ (سال تحصیلی ۱۴۰۰)",
+    "date": "شهریور ۱۴۰۰",
+    "totalQuestions": 150,
+    "extractedCount": 150,
+    "durationMinutes": 150,
+    "description": "دوره چهاردهم با سوالات تفکیک شده علوم پایه و تفکر نقاد",
+    "pdfPath": "/assets/aistudio/license-to-medical-1400_5cf5f553.pdf"
+  },
+  {
+    "id": 1399,
+    "title": "دوره ۱۳ (سال تحصیلی ۱۳۹۹)",
+    "date": "شهریور ۱۳۹۹",
+    "totalQuestions": 150,
+    "extractedCount": 0,
+    "durationMinutes": 150,
+    "description": "دفترچه رسمی الکترونیکی دانشگاه علوم پزشکی تهران با کلید سبز",
+    "pdfPath": "/assets/aistudio/license-to-medical-99_ca3a52cb.pdf"
+  },
+  {
+    "id": 1398,
+    "title": "دوره ۱۲ (سال تحصیلی ۱۳۹۸)",
+    "date": "اسفند ۱۳۹۷ / ۹۸",
+    "totalQuestions": 150,
+    "extractedCount": 0,
+    "durationMinutes": 150,
+    "description": "دوره دوازدهم با پاسخنامه تشریحی و کلید نهایی پاسخ‌ها",
+    "pdfPath": "/assets/aistudio/license-to-medical-98_9473f245.pdf"
+  },
+  {
+    "id": 1397,
+    "title": "دوره ۱۱ (سال تحصیلی ۱۳۹۷)",
+    "date": "خرداد ۱۳۹۷",
+    "totalQuestions": 150,
+    "extractedCount": 0,
+    "durationMinutes": 150,
+    "description": "دوره یازدهم با برگ پاسخنامه کلید آزمون سازمان سنجش پزشکی",
+    "pdfPath": "/assets/aistudio/license-to-medical-97_d16ab41c.pdf"
+  }
+]
